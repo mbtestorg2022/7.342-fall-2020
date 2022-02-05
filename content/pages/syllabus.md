@@ -52,18 +52,177 @@ The course will be graded as pass/fail. Students are expected to attend every cl
 Calendar
 --------
 
-| week # | topics | key dates |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Epithelial-Mesenchymal Transition and Dissemination from the Primary Tumor | &nbsp; |
-| 3 | Cancer in Transit: Dynamics and Behaviors of Circulating Tumor Cells (CTCs) | &nbsp; |
-| 4 | Stromal Support of Dissemination | &nbsp; |
-| 5 | EMT Plasticity and Metastatic Colonization | &nbsp; |
-| 6 | Cancer Stem Cells | &nbsp; |
-| 7 | Genetic Heterogeneity and Evolution of Metastatic Disease | Written assignment due |
-| 8 | Field Trip (virtual), to [Agios](https://www.agios.com/) | &nbsp; |
-| 9 | Determinants of Metastatic Tropism | &nbsp; |
-| 10 | The Metastatic Niche | &nbsp; |
-| 11 | Systemic Effects and the Pre-metastatic Niche | &nbsp; |
-| 12 | Interactions Between Dormant DTCs and the Immune System | &nbsp; |
-| 13 | Oral Presentations and Closing Remarks | Oral presentation due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+week #
+{{< thclose >}}
+{{< thopen >}}
+topics
+{{< thclose >}}
+{{< thopen >}}
+key dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Epithelial-Mesenchymal Transition and Dissemination from the Primary Tumor
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Cancer in Transit: Dynamics and Behaviors of Circulating Tumor Cells (CTCs)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Stromal Support of Dissemination
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+EMT Plasticity and Metastatic Colonization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Cancer Stem Cells
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Genetic Heterogeneity and Evolution of Metastatic Disease
+{{< tdclose >}}
+{{< tdopen >}}
+Written assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip (virtual), to [Agios](https://www.agios.com/)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Determinants of Metastatic Tropism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The Metastatic Niche
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Systemic Effects and the Pre-metastatic Niche
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Interactions Between Dormant DTCs and the Immune System
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations and Closing Remarks
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentation due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
