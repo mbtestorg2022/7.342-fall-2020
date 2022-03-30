@@ -54,7 +54,7 @@ Epithelial-Mesenchymal Transition and Dissemination from the Primary Tumor
 {{< tdopen >}}
 
 
-Yang, J., Mani, S. A., Donaher, J. L., et al. (2004) ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Twist, a master regulator of morphogenesis, plays an essential role in tumor metastasis (PDF)](https://www.cell.com/cell/pdf/S0092-8674(04)00576-8.pdf). _Cell_ 117, 927-939.
+Yang, J., Mani, S. A., Donaher, J. L., et al. (2004) [Twist, a master regulator of morphogenesis, plays an essential role in tumor metastasis (PDF)](https://www.cell.com/cell/pdf/S0092-8674(04)00576-8.pdf). _Cell_ 117, 927-939.
 
 Janda, E., Lehmann, K., Killisch, I., et al. (2002) [Ras and TGFβ cooperatively regulate epithelial cell plasticity and metastasis: dissection of Ras signaling pathways](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2199233/). _The Journal of Cell Biology_ 156, 299–314.
 
@@ -142,7 +142,7 @@ Cancer Stem Cells
 {{< tdopen >}}
 
 
-de Sousa e Melo, F., Kurtova, A. V., Harnoss, J. M., et al. (2017) ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A distinct role for Lgr5(+) stem cells in primary and metastatic colon cancer (PDF - 4.9MB)](https://www.nature.com/articles/nature21713.pdf?origin=ppub). _Nature_ 543, 676–680.
+de Sousa e Melo, F., Kurtova, A. V., Harnoss, J. M., et al. (2017) [A distinct role for Lgr5(+) stem cells in primary and metastatic colon cancer (PDF - 4.9MB)](https://www.nature.com/articles/nature21713.pdf?origin=ppub). _Nature_ 543, 676–680.
 
 Fumagalli, A., Oost, K.C., Kester, L., et al. (2020) [Plasticity of Lgr5-negative cancer cells drives metastasis in colorectal cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118369/). _Cell Stem Cell_ 26, 569–578.e7.
 
